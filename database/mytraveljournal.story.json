@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "68e70a49c318d72fe9ed8444"
+  },
+  "title": "Outside the Wall",
+  "userId": "68e5724dba06a37606f5e714",
+  "contentJson": "[{\"type\":\"image\",\"x\":213,\"y\":132,\"width\":459,\"height\":269,\"rotation\":0,\"zIndex\":1,\"content\":{\"url\":\"/uploads/story-images/961e2a20-8c07-46d4-94d9-d97e27fce528.jpg\",\"alt\":\"[AnimeRG] Attack on Titan - S01E18 Forest of Giant Trees.mkv_snapshot_04.10.537.jpg\",\"objectFit\":\"fill\"},\"id\":\"tqxaydwbk\"},{\"type\":\"text\",\"x\":23,\"y\":65,\"width\":200,\"height\":50,\"rotation\":330,\"zIndex\":1,\"content\":{\"text\":\"From 2013 to 2023\",\"fontSize\":16,\"fontWeight\":\"normal\",\"color\":\"#000000\",\"textAlign\":\"left\"},\"id\":\"buykwb6bw\"},{\"type\":\"video\",\"x\":732,\"y\":111,\"width\":377,\"height\":280,\"rotation\":0,\"zIndex\":1,\"content\":{\"embedCode\":\"<iframe width=\\\"914\\\" height=\\\"514\\\" src=\\\"https://www.youtube.com/embed/pOH0CgDLuSo?list=RDpOH0CgDLuSo\\\" title=\\\"Ashes on The Fire (Extended) | Attack on Titan Season 4\\\" frameborder=\\\"0\\\" allow=\\\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\\\" referrerpolicy=\\\"strict-origin-when-cross-origin\\\" allowfullscreen></iframe>\",\"title\":\"Embedded Video\"},\"id\":\"cwhbd87u4\"},{\"type\":\"audio\",\"x\":524,\"y\":448,\"width\":341,\"height\":82,\"rotation\":0,\"zIndex\":1,\"content\":{\"embedCode\":\"<iframe data-testid=\\\"embed-iframe\\\" style=\\\"border-radius:12px\\\" src=\\\"https://open.spotify.com/embed/track/37Yr8hkrWzfWT7ZRsfCOzX?utm_source=generator\\\" width=\\\"100%\\\" height=\\\"352\\\" frameBorder=\\\"0\\\" allowfullscreen=\\\"\\\" allow=\\\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\\\" loading=\\\"lazy\\\"></iframe>\",\"title\":\"Embedded Audio\"},\"id\":\"dsm0zlm0v\"},{\"type\":\"text\",\"x\":458,\"y\":46,\"width\":200,\"height\":50,\"rotation\":0,\"zIndex\":1,\"content\":{\"text\":\"sithew\",\"fontSize\":16,\"fontWeight\":\"normal\",\"color\":\"#000000\",\"textAlign\":\"left\"},\"id\":\"2uxjci7aa\"}]",
+  "createdAt": {
+    "$date": "2025-10-09T01:05:13.097Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-10T08:54:37.788Z"
+  },
+  "_class": "com.mytraveljournal.model.Story"
+},
+{
+  "_id": {
+    "$oid": "68e7526ac03f4b0a12e9d234"
+  },
+  "title": "Journey",
+  "userId": "68e5724dba06a37606f5e714",
+  "contentJson": "[{\"type\":\"text\",\"x\":100,\"y\":100,\"width\":1297,\"height\":1307.2000370025635,\"rotation\":0,\"zIndex\":1,\"content\":{\"text\":\"One of my passions is travelling. Travel involves visiting new places and meeting new people and having varied experiences. I come originally from Romania and have travelled to UK and US. I remember the quote by Samuel Johnson: “All travel has its advantages. If the passenger visits better countries, he may learn to improve his own. And if fortune carries him to worse, he may learn to enjoy it”. I have had the luck of visiting better countries and I believe my travel experiences have taught me a lot about human life and helped me expand the way I see things.\\n\\nWhen I first travelled within Romania, it opened my eyes to how other people live. I saw how people lived happily even though they did not have much money or luxuries. It taught me that to be happy, money is not the only thing. I must have an attitude to be happy with what I have. It also taught me to accept people from different races and colors. When I travelled abroad, I saw new cultures and different lifestyles.\\n\\nIt was very exciting and adventurous. I learnt to enjoy these new experiences, to become part of these varied cultures by taking their food, wearing their dresses, etc. This has created in me the awareness that people all over the world are basically the same but they are different in the cultures – have different ways of talking, singing, enjoying, dancing, writing, building, dressing and conducting business. I have acquired a more global perspective of the world we live in. My knowledge has thus expanded because of my travel.\\n\\nSelf-confidence is another quality that I developed as a result of travelling. Whenever I travel, I had to be responsible for my own luggage, tickets and documents. I had to be careful in taking flights and cabs. When I was in my home country, I used to be shy to talk to new people. But during my travels, I learnt to talk to strangers and ask for help whenever I needed it. This gave me the confidence that I can make new friends. Also, new places sometimes had new customs that I had to adapt to.\\n\\nTravel is the time I use to read and listen to music. This also gives me the time to reflect deeply on my life’s goals and where I am right now. It is an ideal opportunity to break free from a routine lifestyle. I feel very much relaxed during my travel and enjoy seeing new scenes and landscapes. It gives me time to discover more about myself. For example, when I was in Los Angeles, I saw a rock music performance at a club where everyone danced. I had not danced earlier at clubs. But when I joined the fun, I was surprised to realize that I enjoyed the experience a lot.\\n\\nTravel also gives me a sense of being free and independent. It makes my mind open to new experiences all the time. Even during a flight, I get to taste new food, hear a new language, see new ways of dressing and listen to new kinds of music. This is very exciting and I thoroughly enjoy my life during these moments.\\n\\nThrough my travels, I have made many new international friends. Conversing with them has helped me understand their cultures better and I also have opportunities of improving my English which is now very important when travelling in UK and US. Moreover, as I intend to study in United States, it is good to improve my language skills before I begin my studies. Travelling to the United States has also helped me absorb their local culture and understand the value of hard work.\\n\\nAbove all, whenever I return to Romania after my travels, it helps me appreciate my home country a lot. I value Romanian culture and the warm way in which people relate to each other. I can appreciate it all the more when I travel abroad. Thus, my passion for travel while giving me fun, dreams and confidence, has also educated me, helped me embrace new cultures and new communication skills, adopt a more global perspective, improve my English and given me lots of good friends and wonderful memories. It has made me a richer person internally.\\n\\n\\n\\n\\n\",\"fontSize\":16,\"fontWeight\":\"normal\",\"color\":\"#000000\",\"textAlign\":\"left\"},\"id\":\"mff8b774o\"},{\"type\":\"image\",\"x\":346,\"y\":927,\"width\":652,\"height\":427,\"rotation\":0,\"zIndex\":1,\"content\":{\"url\":\"/uploads/story-images/232d5c70-e5af-40e6-8d27-918aa6a2b2b8.webp\",\"alt\":\"lb-travel-journal-doodle-art-008-1024x1024.jpg.webp\"},\"id\":\"09jqgko3u\"},{\"type\":\"text\",\"x\":110,\"y\":53,\"width\":149,\"height\":50,\"rotation\":0,\"zIndex\":1,\"content\":{\"text\":\"New textcjgiu\",\"fontSize\":16,\"fontWeight\":\"normal\",\"color\":\"#000000\",\"textAlign\":\"left\"},\"id\":\"61ncz0l30\"},{\"type\":\"image\",\"x\":704,\"y\":86.80000305175781,\"width\":300,\"height\":200,\"rotation\":15,\"zIndex\":1,\"content\":{\"url\":\"/uploads/story-images/21c8af85-702b-45e7-8095-91344dfe094f.webp\",\"alt\":\"inspiringtraveljournalideas-images5_2x.webp\"},\"id\":\"uk1ykjwf7\"},{\"type\":\"video\",\"x\":60,\"y\":298,\"width\":447,\"height\":337,\"rotation\":0,\"zIndex\":1,\"content\":{\"embedCode\":\"<iframe width=\\\"914\\\" height=\\\"514\\\" src=\\\"https://www.youtube.com/embed/fQtLH3UUzpw\\\" title=\\\"How to Use EasyEDA for PCB Design | Step-by-Step PCB Layout Tutorial”\\\" frameborder=\\\"0\\\" allow=\\\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\\\" referrerpolicy=\\\"strict-origin-when-cross-origin\\\" allowfullscreen></iframe>\",\"title\":\"Embedded Video\"},\"id\":\"dpeqcf0ou\"}]",
+  "createdAt": {
+    "$date": "2025-10-09T06:12:58.950Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-11T03:32:45.991Z"
+  },
+  "_class": "com.mytraveljournal.model.Story"
+},
+{
+  "_id": {
+    "$oid": "68e8112f83b74c4a96a8de88"
+  },
+  "title": "01",
+  "userId": "68e8112383b74c4a96a8de87",
+  "contentJson": "[{\"type\":\"text\",\"x\":100,\"y\":100,\"width\":882,\"height\":404,\"rotation\":0,\"zIndex\":1,\"content\":{\"text\":\"vvnnnnnnnnnnnnnnnnnn\\nbm\",\"fontSize\":16,\"fontWeight\":\"normal\",\"color\":\"#000000\",\"textAlign\":\"left\"},\"id\":\"76y9fzd0y\"}]",
+  "createdAt": {
+    "$date": "2025-10-09T19:46:55.977Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-09T19:47:32.837Z"
+  },
+  "_class": "com.mytraveljournal.model.Story"
+},
+{
+  "_id": {
+    "$oid": "68e99b54696f58575c7be337"
+  },
+  "title": "testing",
+  "userId": "68e99b13696f58575c7be336",
+  "contentJson": "[{\"type\":\"text\",\"x\":100,\"y\":100,\"width\":379,\"height\":222,\"rotation\":0,\"zIndex\":1,\"content\":{\"text\":\"testing\",\"fontSize\":16,\"fontWeight\":\"normal\",\"color\":\"#000000\",\"textAlign\":\"left\"},\"id\":\"v2416zjva\"},{\"type\":\"image\",\"x\":700,\"y\":96,\"width\":300,\"height\":200,\"rotation\":45,\"zIndex\":1,\"content\":{\"url\":\"/uploads/story-images/4d6a9912-19d8-448f-895c-a1be0ec66dfa.jpg\",\"alt\":\"Deadpool.2016.720p.10bit.BluRay.6CH.x265.HEVC-PSA.mkv_snapshot_00.11.26.320.jpg\",\"objectFit\":\"contain\"},\"id\":\"voc9xp85t\"}]",
+  "createdAt": {
+    "$date": "2025-10-10T23:48:36.577Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-10T23:49:49.118Z"
+  },
+  "_class": "com.mytraveljournal.model.Story"
+},
+{
+  "_id": {
+    "$oid": "68e9d0358471f9355f51478c"
+  },
+  "title": "story01",
+  "userId": "68e5724dba06a37606f5e714",
+  "contentJson": "[{\"type\":\"text\",\"x\":394,\"y\":106,\"width\":200,\"height\":50,\"rotation\":0,\"zIndex\":1,\"content\":{\"text\":\"ffhjvcj\",\"fontSize\":16,\"fontWeight\":\"normal\",\"color\":\"#000000\",\"textAlign\":\"left\"},\"id\":\"itaetayxk\"}]",
+  "createdAt": {
+    "$date": "2025-10-11T03:34:13.168Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-11T03:34:31.197Z"
+  },
+  "_class": "com.mytraveljournal.model.Story"
+},
+{
+  "_id": {
+    "$oid": "68ecd9fd9e0cc04903e56c88"
+  },
+  "title": "nuvvgcgf",
+  "userId": "68ecd9de9e0cc04903e56c87",
+  "contentJson": "[{\"type\":\"text\",\"x\":100,\"y\":100,\"width\":200,\"height\":50,\"rotation\":0,\"zIndex\":1,\"content\":{\"text\":\"jioj9h8uhyu\\n\",\"fontSize\":16,\"fontWeight\":\"normal\",\"color\":\"#000000\",\"textAlign\":\"left\"},\"id\":\"frmvwrxhr\"},{\"type\":\"video\",\"x\":200,\"y\":200,\"width\":400,\"height\":300,\"rotation\":0,\"zIndex\":1,\"content\":{\"embedCode\":\"bkjghgv\",\"title\":\"Embedded Video\"},\"id\":\"esn26su2g\"},{\"type\":\"audio\",\"x\":250,\"y\":250,\"width\":300,\"height\":100,\"rotation\":0,\"zIndex\":1,\"content\":{\"embedCode\":\"bkbyvtfvty\",\"title\":\"Embedded Audio\"},\"id\":\"88y44kynp\"}]",
+  "createdAt": {
+    "$date": "2025-10-13T10:52:45.985Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-13T10:54:31.898Z"
+  },
+  "_class": "com.mytraveljournal.model.Story"
+}]

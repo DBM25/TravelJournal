@@ -1,0 +1,64 @@
+[{
+  "_id": {
+    "$oid": "68e58ab96a60392f4cc4841d"
+  },
+  "albumId": "68e583487e9edb57bc50cf2c",
+  "userId": "supernatural",
+  "url": "/uploads/1850e3c4-998d-406c-aa66-9adcccd0abb3.webp",
+  "caption": "dff",
+  "createdAt": {
+    "$date": "2025-10-07T21:48:41.454Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-07T22:02:27.606Z"
+  },
+  "_class": "com.mytraveljournal.model.Photo"
+},
+{
+  "_id": {
+    "$oid": "68e5f1e1f3a816518339dff6"
+  },
+  "albumId": "68e57a36a743fe3e1d545930",
+  "userId": "supernatural",
+  "url": "/uploads/e6b2cce5-4151-409f-aa99-13720bda4374.jpg",
+  "caption": "pa",
+  "createdAt": {
+    "$date": "2025-10-08T05:08:49.681Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-08T05:09:19.588Z"
+  },
+  "_class": "com.mytraveljournal.model.Photo"
+},
+{
+  "_id": {
+    "$oid": "68e60b8a2fe5a15461ca7692"
+  },
+  "albumId": "68e60b822fe5a15461ca7691",
+  "userId": "supernatural",
+  "url": "/uploads/83dffe26-0718-49db-94f5-418962d8d900.webp",
+  "caption": "photo01",
+  "createdAt": {
+    "$date": "2025-10-08T06:58:18.295Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-09T09:00:09.750Z"
+  },
+  "_class": "com.mytraveljournal.model.Photo"
+},
+{
+  "_id": {
+    "$oid": "68e9b5f9696f58575c7be33a"
+  },
+  "albumId": "68e9b5cb696f58575c7be339",
+  "userId": "supernatural",
+  "url": "/uploads/2608f219-0f46-409d-a473-67e747f91ece.webp",
+  "caption": "",
+  "createdAt": {
+    "$date": "2025-10-11T01:42:17.855Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-11T01:42:17.855Z"
+  },
+  "_class": "com.mytraveljournal.model.Photo"
+}]

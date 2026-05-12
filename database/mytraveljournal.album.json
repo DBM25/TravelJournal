@@ -1,0 +1,14 @@
+[{
+  "_id": {
+    "$oid": "68e583487e9edb57bc50cf2c"
+  },
+  "userId": "supernatural",
+  "title": "11222",
+  "createdAt": {
+    "$date": "2025-10-07T21:16:56.284Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-08T05:38:39.007Z"
+  },
+  "_class": "com.mytraveljournal.model.Album"
+}]

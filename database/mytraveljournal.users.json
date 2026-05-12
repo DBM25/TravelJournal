@@ -1,0 +1,121 @@
+[{
+  "_id": {
+    "$oid": "68e5724dba06a37606f5e714"
+  },
+  "username": "supernatural",
+  "name": "DM",
+  "password": "$2a$10$Znp1w6iqfprxB0lS0KEAr.yQ9X0nXHvPZt2KV8F34wUTd2DHga3au",
+  "profilePicture": "/uploads/profile-images/f047c5cf-73e9-453e-8495-d1ef9fbee8aa.jpg",
+  "createdAt": {
+    "$date": "2025-10-07T20:04:29.629Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-11T03:35:12.890Z"
+  },
+  "_class": "com.mytraveljournal.model.User"
+},
+{
+  "_id": {
+    "$oid": "68e7884183b74c4a96a8de85"
+  },
+  "username": "newuser",
+  "name": "",
+  "password": "$2a$10$iTqj/XTFsi7JXZ7b0LIUXOy2W/MKWRwG/ZYLL42cFVWuDtRgUiu3G",
+  "createdAt": {
+    "$date": "2025-10-09T10:02:41.261Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-09T10:02:41.261Z"
+  },
+  "_class": "com.mytraveljournal.model.User"
+},
+{
+  "_id": {
+    "$oid": "68e8112383b74c4a96a8de87"
+  },
+  "username": "new2",
+  "name": "",
+  "password": "$2a$10$oNJDVgTvmYWj2VmK7XooCeDNTHPfN23jsM/WzUePfiV9EIqOHrnq6",
+  "createdAt": {
+    "$date": "2025-10-09T19:46:43.270Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-09T19:46:43.270Z"
+  },
+  "_class": "com.mytraveljournal.model.User"
+},
+{
+  "_id": {
+    "$oid": "68e81c3383b74c4a96a8de89"
+  },
+  "username": "tester4",
+  "name": "",
+  "password": "$2a$10$yPYL3UmfRnMNQ4Gf49tqKOp0dkz9Rcm8jqS0VQF7UDPb8EzOLgczu",
+  "createdAt": {
+    "$date": "2025-10-09T20:33:55.181Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-09T20:33:55.181Z"
+  },
+  "_class": "com.mytraveljournal.model.User"
+},
+{
+  "_id": {
+    "$oid": "68e99b13696f58575c7be336"
+  },
+  "username": "testusernew",
+  "name": "",
+  "password": "$2a$10$YKLeHnt1FANAkpljM9fqx.d9AEYb5JKvkymBbWpOHEs1Iy.AHuRhK",
+  "createdAt": {
+    "$date": "2025-10-10T23:47:31.564Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-10T23:47:31.564Z"
+  },
+  "_class": "com.mytraveljournal.model.User"
+},
+{
+  "_id": {
+    "$oid": "68e9cf398471f9355f51478b"
+  },
+  "username": "newnew",
+  "name": "",
+  "password": "$2a$10$claiH3tV/kv4jIolMsedjuZg8oe7meVlsjU.7XyTtv.3uhFYdCU1u",
+  "createdAt": {
+    "$date": "2025-10-11T03:30:01.609Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-11T03:30:01.609Z"
+  },
+  "_class": "com.mytraveljournal.model.User"
+},
+{
+  "_id": {
+    "$oid": "68ecd9de9e0cc04903e56c87"
+  },
+  "username": "bhkjbkjhb",
+  "name": "",
+  "password": "$2a$10$MS0SSArfQUGIweA9wFvCVOv046hfjzwP14En5ntJd57d28uqoVv2q",
+  "createdAt": {
+    "$date": "2025-10-13T10:52:14.396Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-13T10:52:14.396Z"
+  },
+  "_class": "com.mytraveljournal.model.User"
+},
+{
+  "_id": {
+    "$oid": "6a036add207acf2f96d322b9"
+  },
+  "username": "newaccount",
+  "name": "",
+  "password": "$2a$10$Hby5aivjI6o0sGJpxHRCkuvEOKZVNtbXU2H/42yompKhWIe5JtDAa",
+  "createdAt": {
+    "$date": "2026-05-12T18:01:01.932Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-12T18:01:01.932Z"
+  },
+  "_class": "com.mytraveljournal.model.User"
+}]

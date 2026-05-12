@@ -1,0 +1,24 @@
+{
+  "type": "Compass Connections",
+  "version": {
+    "$numberInt": "1"
+  },
+  "connections": [
+    {
+      "id": "4f669f2f-95af-4217-850c-a81d99dc8009",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1778608769924"
+        }
+      },
+      "favorite": {
+        "name": "mytraveljournal"
+      },
+      "savedConnectionType": "recent",
+      "connectionOptions": {
+        "connectionString": "mongodb://localhost:27017/",
+        "oidc": {}
+      }
+    }
+  ]
+}

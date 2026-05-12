@@ -1,0 +1,156 @@
+PROJECT STARTUP GUIDE
+
+========================================
+REQUIREMENTS
+============
+
+1. Node.js installed
+2. Maven installed
+3. MongoDB installed/running
+4. MongoDB Compass optional (for viewing database)
+
+---
+
+## CHECK INSTALLATIONS
+
+Check Node.js:
+node -v
+
+Check npm:
+npm -v
+
+Check Maven:
+mvn -version
+
+========================================
+HOW TO RUN THE PROJECT
+======================
+
+STEP 1 — Start MongoDB
+
+Usually MongoDB starts automatically.
+
+You can verify using MongoDB Compass:
+
+* Open Compass
+* Connect to localhost
+* Check whether databases appear
+
+If MongoDB is not running manually start it with:
+mongod
+
+========================================
+
+STEP 2 — Import Database JSON Files
+
+Open MongoDB Compass.
+
+Create database:
+
+* Click "Create Database"
+* Enter database name
+* Create first collection
+
+Then import collection data:
+
+* Open collection
+* Click "Add Data"
+* Click "Import JSON or CSV file"
+* Select JSON file from project/database/
+
+Repeat for all collections.
+
+Example structure:
+
+project/
+└── database/
+├── users.json
+├── tea_samples.json
+└── sensor_logs.json
+
+NOTE:
+The file "compass-connections.json" only stores MongoDB Compass connection settings.
+It is NOT the actual database data.
+
+Actual collection exports must be exported separately from each collection using:
+Collection -> Export Data -> JSON
+
+========================================
+
+STEP 3 — Start Spring Boot Backend
+
+Open terminal inside backend folder:
+
+cd backend
+
+Run backend:
+
+mvn spring-boot:run
+
+Wait until terminal says something similar to:
+"Started Application"
+
+Backend usually runs on:
+http://localhost:8080
+
+========================================
+
+STEP 4 — Start Frontend
+
+Open another terminal in main project folder.
+
+Run:
+
+npm run dev
+
+Vite should show something like:
+http://localhost:5173
+
+Open that link in browser.
+
+========================================
+PROJECT STRUCTURE
+=================
+
+project/
+│
+├── backend/        -> Spring Boot backend
+├── src/            -> Frontend source
+├── public/         -> Frontend public assets
+├── database/       -> Exported MongoDB collections
+├── package.json    -> Frontend dependencies
+└── node_modules/   -> Auto-generated (DO NOT upload)
+
+========================================
+COMMON ISSUES
+=============
+
+1. Frontend opens but no data loads
+
+* Backend probably not running
+* Or MongoDB connection failed
+
+2. npm command not found
+
+* Install Node.js
+
+3. mvn command not found
+
+* Install Maven
+
+4. MongoDB connection error
+
+* Ensure MongoDB service is running
+
+========================================
+IMPORTANT
+=========
+
+DO NOT upload:
+
+* node_modules/
+* target/
+* .env files
+* temporary build files
+
+Use .gitignore for those.
